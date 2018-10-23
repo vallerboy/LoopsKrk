@@ -9,5 +9,6 @@ public class Task8 {
         do{
             userAnswer = scanner.nextLine();
         }while (!correctPassword.equals(userAnswer));
+
     }
 }
